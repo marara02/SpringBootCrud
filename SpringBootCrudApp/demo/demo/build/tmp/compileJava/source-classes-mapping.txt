@@ -1,0 +1,8 @@
+kz/stud/demo/DemoApplication.java
+ kz.stud.demo.DemoApplication
+kz/stud/demo/controller/shopController.java
+ kz.stud.demo.controller.shopController
+kz/stud/demo/repository/ShopRepository.java
+ kz.stud.demo.repository.ShopRepository
+kz/stud/demo/model/Food.java
+ kz.stud.demo.model.Food
